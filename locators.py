@@ -1,0 +1,16 @@
+# //*[@id="Добро_пожаловать_в_Википедию,"]
+# //*[text()="Скачать как PDF"]
+# //img[@src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Queen_Adeliza.jpg/130px-Queen_Adeliza.jpg"]
+#
+#
+# //*[text()="Редактировать просто — что введёшь, то и увидишь."]
+# //button[@class="uls-settings-trigger"]
+# //*[text()='Имя учётной записи']
+# //input[@name="wpName»]
+# //*[text()='Пароль']
+# //input[@name="wpPassword"]
+# //input[@name="wpRemember"]
+# //button[@name="wploginattempt"]
+# //*[text()='Помощь по входу']
+# //*[text()='Сбросить ваш пароль?']
+# //a[@id="mw-createaccount-join"]
