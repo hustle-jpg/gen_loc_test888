@@ -1,10 +1,9 @@
 # //*[@id="Добро_пожаловать_в_Википедию,"]
-# //*[text()="Скачать как PDF"]
-# //img[@src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Queen_Adeliza.jpg/130px-Queen_Adeliza.jpg"]
-#
+# //li[@id="coll-download-as-rl"]//a
+# //img[@alt='Ханс Эгеде. Портрет работы Йохана Хорнера']#
 #
 # //*[text()="Редактировать просто — что введёшь, то и увидишь."]
-# //button[@class="uls-settings-trigger"]
+# //button[@title='Установки языка']
 # //*[text()='Имя учётной записи']
 # //input[@name="wpName»]
 # //*[text()='Пароль']
@@ -13,4 +12,4 @@
 # //button[@name="wploginattempt"]
 # //*[text()='Помощь по входу']
 # //*[text()='Сбросить ваш пароль?']
-# //a[@id="mw-createaccount-join"]
+# //*[@id="mw-createaccount-join"]

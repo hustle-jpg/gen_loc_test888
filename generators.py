@@ -21,7 +21,6 @@ result4 = [int(word) for word in text.split() if word.isdigit()]
 
 #7
 numbers_type = ("четное" if i % 2 == 0 else "нечетное" for i in range(1, 21))
-result_list = list(numbers_type)
 
 #8
 text = "The trickiest part of learning list comprehension for me was really understanding the syntax."
