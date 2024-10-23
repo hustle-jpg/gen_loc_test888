@@ -6,6 +6,7 @@ from faker import Faker
 
 
 fake = Faker()
+
 LOGIN_BUTTON = (By.XPATH, "//a[@class='global_action_link']")
 EMAIL_INPUT = (By.XPATH, '//input[@type="text"]')
 PASSWORD_INPUT = (By.XPATH, '//input[@type="password"]')
